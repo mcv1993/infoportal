@@ -1,0 +1,2 @@
+class TechUser < User
+end
